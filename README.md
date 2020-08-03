@@ -5,6 +5,6 @@ To use:
 2. Use any of the following commands: <br/>
    a. node app.js read --title="My title"<br/>
    b. node app.js list<br/>
-   c. node app.js add --title="My title" body="My content"<br/>
+   c. node app.js add --title="My title" --body="My content"<br/>
    d. node app.js remove --title="My title"<br/>
    
